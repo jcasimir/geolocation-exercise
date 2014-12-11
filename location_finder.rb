@@ -4,8 +4,8 @@ class LocationFinder
   attr_reader :locations
 
   def initialize(locations)
-    file = File.read(locations)
-    @locations = JSON.parse(file)
+    data = File.read(locations)
+    @locations = JSON.parse(data)
   end
 
   def closest_to(user_local)
