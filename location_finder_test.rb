@@ -30,4 +30,10 @@ class LocateTest < Minitest::Test
     nearest_biz = finder.closest_to(@user_local)
     assert_equal "Hammes and Sons", nearest_biz["name"]
   end
+
+  def test_closest_location_is_neither_the_closest_lat_nor_the_closest_long
+    finder = LocationFinder.new('engineered_locations.json')
+    nearest_biz = finder.closest_to({:latitude => 5, :longitude => 5})
+    assert_equal "Real Closest", nearest_biz["name"]
+  end
 end
