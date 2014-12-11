@@ -9,7 +9,7 @@ class LocationFinder
   end
 
   def json_parse(file)
-    @locations = JSON.parse(file)
+    JSON.parse(file)
   end
 
   def closest_to(user_local)
