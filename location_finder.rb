@@ -5,11 +5,7 @@ class LocationFinder
 
   def initialize(locations)
     file = File.read(locations)
-    @locations = json_parse(file)
-  end
-
-  def json_parse(file)
-    JSON.parse(file)
+    @locations = JSON.parse(file)
   end
 
   def closest_to(user_local)
