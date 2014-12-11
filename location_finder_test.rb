@@ -15,6 +15,14 @@ class LocateTest < Minitest::Test
 
   def test_nearest_lat
     finder = LocationFinder.new('locations.json')
+    nearest_lat = finder.nearest_business_lat(39.70)
+    assert_equal "Aufderhar-Barrows", nearest_lat["name"]
+  end
+
+  def test_nearest_long
+    finder = LocationFinder.new('locations.json')
+    nearest_long = finder.nearest_business_long(-20.252)
+    assert_equal "Hand Group", nearest_long["name"]
   end
 
   def test_closest_to
