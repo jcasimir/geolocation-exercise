@@ -1,0 +1,502 @@
+[
+  {
+    "name": "Wehner, Lockman and Jast",
+    "latitude": "44.699409478114234",
+    "longitude": "129.82598611072723"
+  },
+  {
+    "name": "Moen, Gerlach and Franecki",
+    "latitude": "-61.38282941186827",
+    "longitude": "-61.25380117242804"
+  },
+  {
+    "name": "Schinner Group",
+    "latitude": "2.2569326590228087",
+    "longitude": "110.66129959108713"
+  },
+  {
+    "name": "Oberbrunner Group",
+    "latitude": "-75.67223471403251",
+    "longitude": "156.36295941492455"
+  },
+  {
+    "name": "Boyer Group",
+    "latitude": "33.084345353900574",
+    "longitude": "-3.591937582229889"
+  },
+  {
+    "name": "Dickinson, Zboncak and Wisozk",
+    "latitude": "-43.89030335888285",
+    "longitude": "-77.03828957821838"
+  },
+  {
+    "name": "Koelpin, Haag and Vandervort",
+    "latitude": "-67.99009640078586",
+    "longitude": "91.22084576840456"
+  },
+  {
+    "name": "Feeney, Turcotte and Brekke",
+    "latitude": "-85.50365226573318",
+    "longitude": "-82.14546097114352"
+  },
+  {
+    "name": "Crist-Schumm",
+    "latitude": "-71.20695517146939",
+    "longitude": "-21.10394567264484"
+  },
+  {
+    "name": "Hammes-Waelchi",
+    "latitude": "-67.96168952082338",
+    "longitude": "137.1623133645429"
+  },
+  {
+    "name": "Glover, Reichel and White",
+    "latitude": "64.21623583163608",
+    "longitude": "125.79865425998679"
+  },
+  {
+    "name": "Dicki-Klein",
+    "latitude": "34.12917329063235",
+    "longitude": "65.38308287951145"
+  },
+  {
+    "name": "Mraz LLC",
+    "latitude": "57.602182482187175",
+    "longitude": "-154.92895890041726"
+  },
+  {
+    "name": "Schoen Group",
+    "latitude": "-42.590450956534035",
+    "longitude": "-11.536775736397402"
+  },
+  {
+    "name": "Cruickshank-Daugherty",
+    "latitude": "51.69931769393685",
+    "longitude": "146.29680849598032"
+  },
+  {
+    "name": "Bode, Ernser and Weimann",
+    "latitude": "27.865606910878256",
+    "longitude": "143.0390415183836"
+  },
+  {
+    "name": "Kub, Swaniawski and Fadel",
+    "latitude": "76.4002947730157",
+    "longitude": "-96.83863266272496"
+  },
+  {
+    "name": "Kuhlman Inc",
+    "latitude": "3.5097308072784585",
+    "longitude": "-158.1485429512449"
+  },
+  {
+    "name": "Cole, Windler and Beer",
+    "latitude": "-51.89200447518369",
+    "longitude": "66.89955541644446"
+  },
+  {
+    "name": "Kautzer-Conroy",
+    "latitude": "-5.121725684538177",
+    "longitude": "96.81463089855401"
+  },
+  {
+    "name": "Lehner, Auer and Champlin",
+    "latitude": "54.24917804009678",
+    "longitude": "-7.295886818707942"
+  },
+  {
+    "name": "Nolan Group",
+    "latitude": "12.850606953511445",
+    "longitude": "-130.55363847246818"
+  },
+  {
+    "name": "Hettinger, Thiel and Thompson",
+    "latitude": "-18.551509215457955",
+    "longitude": "-157.198984151207"
+  },
+  {
+    "name": "Pacocha-Ondricka",
+    "latitude": "-7.587223384509215",
+    "longitude": "67.71103763985161"
+  },
+  {
+    "name": "Dooley Group",
+    "latitude": "-62.890584780387044",
+    "longitude": "-159.969791251193"
+  },
+  {
+    "name": "Baumbach, Jenkins and Hessel",
+    "latitude": "89.87058281185375",
+    "longitude": "-103.92287698163847"
+  },
+  {
+    "name": "Okuneva and Sons",
+    "latitude": "-37.27484135545137",
+    "longitude": "-10.43219265537246"
+  },
+  {
+    "name": "Spinka-Hermann",
+    "latitude": "44.01093457856399",
+    "longitude": "-43.74262726811244"
+  },
+  {
+    "name": "Feil-Mitchell",
+    "latitude": "62.66055163742192",
+    "longitude": "21.31818031576904"
+  },
+  {
+    "name": "Schaden, Zieme and Gerhold",
+    "latitude": "-46.156554727285446",
+    "longitude": "133.16474015603586"
+  },
+  {
+    "name": "Rodriguez-Wiegand",
+    "latitude": "-20.317508594413127",
+    "longitude": "92.43150031945129"
+  },
+  {
+    "name": "Stracke, Ryan and Lubowitz",
+    "latitude": "83.1821908661077",
+    "longitude": "32.20136475689617"
+  },
+  {
+    "name": "Casper, Powlowski and Jenkins",
+    "latitude": "-30.895472814195635",
+    "longitude": "-113.19775951151138"
+  },
+  {
+    "name": "Jacobson, Kerluke and Hauck",
+    "latitude": "74.55290716454135",
+    "longitude": "-23.76789581438777"
+  },
+  {
+    "name": "Jakubowski-Mayer",
+    "latitude": "7.509930368870911",
+    "longitude": "-19.40745167266624"
+  },
+  {
+    "name": "Davis-Predovic",
+    "latitude": "-6.313905374323198",
+    "longitude": "-114.98592404064334"
+  },
+  {
+    "name": "Swaniawski-Predovic",
+    "latitude": "-13.513787277065163",
+    "longitude": "169.20744710277455"
+  },
+  {
+    "name": "Heathcote-McClure",
+    "latitude": "-9.708079926425029",
+    "longitude": "134.69451091287198"
+  },
+  {
+    "name": "Moore LLC",
+    "latitude": "-14.859154818066614",
+    "longitude": "110.72446812502432"
+  },
+  {
+    "name": "Bayer, Strosin and Pagac",
+    "latitude": "26.52916639728886",
+    "longitude": "-98.76402163595509"
+  },
+  {
+    "name": "Simonis-Beier",
+    "latitude": "-88.39517458673886",
+    "longitude": "16.33706902192577"
+  },
+  {
+    "name": "Buckridge Inc",
+    "latitude": "50.517622381498285",
+    "longitude": "56.60538754671276"
+  },
+  {
+    "name": "Stamm LLC",
+    "latitude": "-11.359734734565237",
+    "longitude": "0.1251228338044541"
+  },
+  {
+    "name": "Rolfson, Howe and Smitham",
+    "latitude": "7.979298327650341",
+    "longitude": "-134.14422298963132"
+  },
+  {
+    "name": "Orn, Kunze and Kuhic",
+    "latitude": "10.682397333046083",
+    "longitude": "-30.420671876710742"
+  },
+  {
+    "name": "Cummerata-Hansen",
+    "latitude": "-57.41228050166739",
+    "longitude": "77.02834555424698"
+  },
+  {
+    "name": "Veum, Hackett and Reichert",
+    "latitude": "-85.18532038420241",
+    "longitude": "117.72546518961383"
+  },
+  {
+    "name": "Barrows Group",
+    "latitude": "81.56062549972063",
+    "longitude": "64.51969969782218"
+  },
+  {
+    "name": "Sauer, McLaughlin and Terry",
+    "latitude": "3.428040009970715",
+    "longitude": "-138.88005980364397"
+  },
+  {
+    "name": "Little, Borer and Yundt",
+    "latitude": "-70.66020205245427",
+    "longitude": "-45.603264305940485"
+  },
+  {
+    "name": "Bartoletti and Sons",
+    "latitude": "-71.59218424853094",
+    "longitude": "157.14324894220277"
+  },
+  {
+    "name": "Willms LLC",
+    "latitude": "42.90059371958472",
+    "longitude": "-84.54099979085579"
+  },
+  {
+    "name": "Carroll Group",
+    "latitude": "-88.32060806681027",
+    "longitude": "157.97120694571714"
+  },
+  {
+    "name": "Reilly-Crist",
+    "latitude": "64.4234053159737",
+    "longitude": "170.10599735540512"
+  },
+  {
+    "name": "Homenick-Witting",
+    "latitude": "25.977785164806647",
+    "longitude": "49.931994293494654"
+  },
+  {
+    "name": "Feest-Stark",
+    "latitude": "-88.19799823739268",
+    "longitude": "110.32697709284105"
+  },
+  {
+    "name": "Aufderhar-Barrows",
+    "latitude": "42.28544522443676",
+    "longitude": "-119.130717362591"
+  },
+  {
+    "name": "Veum, Wintheiser and McKenzie",
+    "latitude": "-6.477482026388671",
+    "longitude": "-8.021556344724843"
+  },
+  {
+    "name": "Rippin and Sons",
+    "latitude": "-7.750156002588966",
+    "longitude": "-33.85160452913814"
+  },
+  {
+    "name": "Zulauf, Daniel and Schumm",
+    "latitude": "-46.347855359872725",
+    "longitude": "118.9970258051514"
+  },
+  {
+    "name": "Bechtelar Inc",
+    "latitude": "-17.584938212306014",
+    "longitude": "-139.3923555802934"
+  },
+  {
+    "name": "Ruecker-Bauch",
+    "latitude": "-42.82828467938502",
+    "longitude": "15.577129281189315"
+  },
+  {
+    "name": "Schultz, Glover and Weissnat",
+    "latitude": "-48.66216501294176",
+    "longitude": "-119.34212053248673"
+  },
+  {
+    "name": "Hamill and Sons",
+    "latitude": "26.867658196677993",
+    "longitude": "40.34655285701845"
+  },
+  {
+    "name": "Hermiston Inc",
+    "latitude": "19.92263544184692",
+    "longitude": "-144.97621484467442"
+  },
+  {
+    "name": "Goyette-Kshlerin",
+    "latitude": "-25.81328645994239",
+    "longitude": "89.12465032985807"
+  },
+  {
+    "name": "Padberg LLC",
+    "latitude": "50.51923486174499",
+    "longitude": "-40.04309801668646"
+  },
+  {
+    "name": "O'Conner, Mayert and Tillman",
+    "latitude": "44.60066177535688",
+    "longitude": "78.76938175000339"
+  },
+  {
+    "name": "Lesch and Sons",
+    "latitude": "-81.82161645311899",
+    "longitude": "-174.97051740344762"
+  },
+  {
+    "name": "Nolan-Kassulke",
+    "latitude": "-38.31334652346598",
+    "longitude": "-179.5936791391564"
+  },
+  {
+    "name": "Herman-Torp",
+    "latitude": "73.15125910989684",
+    "longitude": "0.1558536517544269"
+  },
+  {
+    "name": "Howe, Grant and Stroman",
+    "latitude": "-29.885190221435543",
+    "longitude": "-118.76977084068895"
+  },
+  {
+    "name": "Kutch and Sons",
+    "latitude": "-12.24414706381215",
+    "longitude": "97.55177197971113"
+  },
+  {
+    "name": "Romaguera, Langosh and Kirlin",
+    "latitude": "-73.78029272329022",
+    "longitude": "-33.0686067327496"
+  },
+  {
+    "name": "Hessel-Aufderhar",
+    "latitude": "-19.242939938630144",
+    "longitude": "-88.09461970455565"
+  },
+  {
+    "name": "DuBuque-Murphy",
+    "latitude": "-45.654474104977425",
+    "longitude": "-131.4476177236623"
+  },
+  {
+    "name": "Lynch-Collier",
+    "latitude": "48.60150821939385",
+    "longitude": "178.2442492499818"
+  },
+  {
+    "name": "Hand Group",
+    "latitude": "10.962411891543184",
+    "longitude": "-20.134065225365163"
+  },
+  {
+    "name": "Mitchell, Conn and Altenwerth",
+    "latitude": "-46.67842961358317",
+    "longitude": "-107.86724460825847"
+  },
+  {
+    "name": "Waelchi, Crooks and Cartwright",
+    "latitude": "14.89045714018603",
+    "longitude": "54.237531411941205"
+  },
+  {
+    "name": "Barton-Quitzon",
+    "latitude": "7.993522518271831",
+    "longitude": "-158.4590057189011"
+  },
+  {
+    "name": "Tillman-Bartoletti",
+    "latitude": "8.580532087938764",
+    "longitude": "60.46570212399206"
+  },
+  {
+    "name": "Quigley-Gulgowski",
+    "latitude": "-18.353557746334204",
+    "longitude": "-175.71978766743482"
+  },
+  {
+    "name": "Simonis, Schmidt and Conroy",
+    "latitude": "58.068311623654694",
+    "longitude": "134.1947303787714"
+  },
+  {
+    "name": "Predovic Group",
+    "latitude": "17.96906782333626",
+    "longitude": "12.256835089929552"
+  },
+  {
+    "name": "Heaney, Nikolaus and McKenzie",
+    "latitude": "-71.92265434913594",
+    "longitude": "-106.17915411895731"
+  },
+  {
+    "name": "Boyer Group",
+    "latitude": "25.023569147859362",
+    "longitude": "71.08571473965853"
+  },
+  {
+    "name": "Grady, Schmidt and McClure",
+    "latitude": "-1.2687704028769815",
+    "longitude": "158.92216668218788"
+  },
+  {
+    "name": "Cartwright, Purdy and Armstrong",
+    "latitude": "56.31267587692625",
+    "longitude": "106.59201038113133"
+  },
+  {
+    "name": "Moore Inc",
+    "latitude": "58.0259237787032",
+    "longitude": "-20.38190522882141"
+  },
+  {
+    "name": "King LLC",
+    "latitude": "64.34200383957554",
+    "longitude": "122.12618252632348"
+  },
+  {
+    "name": "Connelly, Jast and Reichert",
+    "latitude": "-79.37516063310308",
+    "longitude": "129.33746622805256"
+  },
+  {
+    "name": "Baumbach, Streich and Bashirian",
+    "latitude": "71.30601289927009",
+    "longitude": "-47.14953675999749"
+  },
+  {
+    "name": "Jacobi, Schaefer and Pagac",
+    "latitude": "23.297800749840547",
+    "longitude": "18.63130272946509"
+  },
+  {
+    "name": "Herzog Group",
+    "latitude": "-6.6260281758823965",
+    "longitude": "-14.596753703452862"
+  },
+  {
+    "name": "Murray-Jast",
+    "latitude": "87.85580239571792",
+    "longitude": "-130.15391903750356"
+  },
+  {
+    "name": "Terry-Dickinson",
+    "latitude": "-81.78194470042455",
+    "longitude": "33.18324707852611"
+  },
+  {
+    "name": "Hammes and Sons",
+    "latitude": "50.55738196335821",
+    "longitude": "10.3474664853388"
+  },
+  {
+    "name": "Pacocha-Kemmer",
+    "latitude": "-0.2534382795711707",
+    "longitude": "31.466136115676278"
+  },
+  {
+    "name": "Weimann Inc",
+    "latitude": "50.27079954961954",
+    "longitude": "152.8891673882789"
+  }
+]
