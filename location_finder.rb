@@ -18,15 +18,15 @@ class LocationFinder
     lat_diff < long_diff ? nearest_lat : nearest_long
   end
 
-  def nearest_business_lat(user_lat)
+  def nearest_business_lat(target_lat)
     locations.min_by do |location|
-      (location["latitude"].to_f - user_lat).abs
+      (location["latitude"].to_f - target_lat).abs
     end
   end
 
-  def nearest_business_long(user_long)
+  def nearest_business_long(target_long)
     locations.min_by do |location|
-      (location["longitude"].to_f - user_long).abs
+      (location["longitude"].to_f - target_long).abs
     end
   end
 end
